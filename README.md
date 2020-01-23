@@ -39,4 +39,4 @@ DELETE /api/contacts/:id
 
 # Get in Touch
 
-I am available on  [![N|Solid](http://tutorialwala.com/wp-content/uploads/2019/05/cropped-logo-1.png)](http://tutorialwala.com/)
+[![N|Solid](http://tutorialwala.com/wp-content/uploads/2019/05/cropped-logo-1.png)](http://tutorialwala.com/)
